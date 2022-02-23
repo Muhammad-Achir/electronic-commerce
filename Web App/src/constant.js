@@ -1,0 +1,4 @@
+export default {
+    SET_PRODUCT: 'SET_PRODUCT',
+    SET_PRODUCT_DETAIL: 'SET_PRODUCT_DETAIL'
+}
