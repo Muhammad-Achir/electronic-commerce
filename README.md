@@ -1,8 +1,8 @@
 # electronic-commerce
 
-##Back End
+Back End:
 Java Spring Boot (NetBeans)
 
-##Front End
+Front End:
 Website - React Js
 Mobile - React Native
